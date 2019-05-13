@@ -1,14 +1,14 @@
 {
-  "name": "joselito",
+  "name": "wmitrut",
   "version": "0.0.2",
-  "description": "A personal card for Joselito (@breakzplatform)",
+  "description": "A personal card for Wellington Mitrut (@wmitrut)",
   "main": "index.js",
   "bin": {
-    "joselito": "./bin/card.js"
+    "wmitrut": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/breakzplatform/card.git"
+    "url": "git+https://github.com/wmitrut/card.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,8 +24,8 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/breakzplatform/card/issues"
+    "url": "https://github.com/wmitrut/card/issues"
   },
-  "homepage": "https://github.com/breakzplatform/card#readme",
-  "author": "Joselito <hello@joseli.to> (http://joseli.to)"
+  "homepage": "https://github.com/wmitrut/card#readme",
+  "author": "Wellington Mitrut <wellingtonmitrut@gmail.com> (http://blog.wmitrut.com)"
 }
